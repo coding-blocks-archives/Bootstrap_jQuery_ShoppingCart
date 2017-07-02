@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Laptop",
+    "price": 40000,
+    "color": "223344"
+  },
+  {
+    "id": 1,
+    "name": "Mobile",
+    "price": 20000,
+    "color": "223344"
+  },
+  {
+    "id": 2,
+    "name": "Desktop",
+    "price": 35000,
+    "color": "223344"
+  },
+  {
+    "id": 3,
+    "name": "Headphone",
+    "price": 7000,
+    "color": "223344"
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "price": 15000,
+    "color": "223344"
+  },
+  {
+    "id": 5,
+    "name": "Playstation",
+    "price": 30000,
+    "color": "223344"
+  }
+]
